@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cay:home|Door43 (cay)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cay|d43-cay repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cay/archive/master.zip|d43-cay.zip]]
+
+**Recent Changes**
+{{changes>ns = cay}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cay|Ethnologue data]]
+
